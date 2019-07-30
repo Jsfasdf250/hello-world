@@ -1,4 +1,4 @@
->>> import turtle
->>> turtle.showturtle()
->>> turtle.shape("turtle")
->>> turtle.forward(100)
+import turtle
+turtle.showturtle()
+turtle.shape("turtle")
+turtle.forward(100)
